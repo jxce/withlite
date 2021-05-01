@@ -1,7 +1,9 @@
-* [一级标题](readme)
-	* [二级标题](page)
-		* 三级标题
+<img src="https://ailore-1251230017.cos.ap-guangzhou.myqcloud.com/%E5%9B%BE%E5%BA%93/news/withlitelogo.png" alt="logo" style="height: 20px;margin-left: 30%;" />
 
-* 一级标题
-	* 二级标题
-		* 三级标题	
+* [Home](readme)
+
+* Product
+  * [soap dispenser](/product/soap-dispenser)
+  * [Clipping tool](/product/Clipping-tool)
+  * [Hammer](/product/hammer)
+
